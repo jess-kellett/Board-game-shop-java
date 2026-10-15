@@ -59,7 +59,6 @@ Supporting classes: `Stock`, `ShoppingBasket`, `Receipt`, `Address`, `FileManage
 ```
 ├── src/objectOrientatedProgrammingCoursework/   # all Java source files
 ├── bgms.jar                                     # runnable build of the program
-├── classDiagram.pdf                             # UML class diagram
 ├── Stock.txt                                    # product stock data
 └── UserAccounts.txt                             # user accounts
 ```
