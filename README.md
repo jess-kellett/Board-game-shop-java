@@ -69,7 +69,7 @@ Supporting classes: `Stock`, `ShoppingBasket`, `Receipt`, `Address`, `FileManage
 
 ## How to run
 
-You need Java installed (JDK 8 or later).
+You need Java installed.
 
 ### Option 1: run the jar
 From the project folder, so the program can find the `.txt` files:
