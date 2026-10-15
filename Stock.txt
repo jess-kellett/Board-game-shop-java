@@ -7,3 +7,4 @@
 2039; accessory; miniature; Space Commander Figure; 18.0; 25; 7.0; Warhammer 40K
 7125; accessory; miniature; Ancient Warrior Model; 15.0; 28; 6.0; Ancient Battles
 7381; accessory; dice; 7-piece Polyhedral Dice Set; 12.0; 50; 5.0; Dungeons & Dragons
+2674; accessory; dice; Metal D20 Collector Dice; 9.0; 60; 3.5; Universal
